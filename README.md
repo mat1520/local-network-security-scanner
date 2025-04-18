@@ -1,4 +1,4 @@
-# Local Network Security Analysis Tool 🔒
+# Local Network Security Scanner 🔒
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-A comprehensive network security analysis toolkit designed for local network assessment and vulnerability detection. This project leverages advanced network scanning techniques using Nmap to identify connected devices, analyze open ports, and evaluate potential security risks in IoT environments.
+A comprehensive network security scanning toolkit designed for local network assessment and vulnerability detection. This project leverages advanced network scanning techniques using Nmap to identify connected devices, analyze open ports, and evaluate potential security risks in IoT environments.
 
 ## 🎯 Key Features
 
@@ -97,8 +97,8 @@ sudo nmap -sV --version-all 192.168.1.1
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mat1520/escaneo-red-local.git
-cd escaneo-red-local
+git clone https://github.com/mat1520/local-network-security-scanner.git
+cd local-network-security-scanner
 ```
 
 2. Install dependencies:
@@ -115,7 +115,7 @@ sudo ./scan.sh
 
 ## 📝 Documentation
 
-Detailed documentation is available in the [Wiki](https://github.com/mat1520/escaneo-red-local/wiki).
+Detailed documentation is available in the [Wiki](https://github.com/mat1520/local-network-security-scanner/wiki).
 
 ## 🔐 Security Considerations
 
